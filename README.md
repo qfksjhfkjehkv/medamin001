@@ -19,7 +19,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+*   🌍  I'm based in Tunisia
+*   📚   Bachelor of Network Engineering
+*   🖥️  See my portfolio at [amin-turki.netlify.app](http://amin-turki.netlify.app)
+*   ✉️  You can contact me at [medaminturki01@gmail.com](mailto:medaminturki01@gmail.com)
+*   🚀  Fullstack expertise in building softwares and web-based products
+*   🤝  Open to offers
+*   ⚡  Motivated and eager to engineer high-end solutions
 
 ###
 
