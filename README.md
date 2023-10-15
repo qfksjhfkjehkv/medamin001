@@ -24,8 +24,9 @@
 *   🖥️  See my portfolio at [amin-turki.netlify.app](http://amin-turki.netlify.app)
 *   ✉️  You can contact me at [medaminturki01@gmail.com](mailto:medaminturki01@gmail.com)
 *   🚀  Fullstack expertise in building softwares and web-based products
-*   🤝  Open to offers
 *   ⚡  Motivated and eager to engineer high-end solutions
+*   🤝  Open to offers
+  
 
 ###
 
